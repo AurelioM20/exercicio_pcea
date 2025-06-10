@@ -1,3 +1,1 @@
-# exercicio_pcea
-
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+Eu estou adorando estudar Fundamentos de Processamento, Computação e Arquitetura de Computadores! Ela me mostra como o hardware, como processadores e memória, funciona e se conecta ao software. Isso é a base para entender sistemas, redes e até tecnologias como IA. Em três palavras: é o meu começo!
